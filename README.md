@@ -2,7 +2,9 @@
 An ultimately comprehensive list of hyperspectral image classification resources (papers &amp; codes &amp; related websites) collected by Jiaqi Zou (immortal@whu.edu.cn)
 
 Nice meeting you, please feel free to share this list with others!
+
 Contributions in any form to make this list more comprehensive are welcome!
+
 If you find this repository useful, kindly consider citing or giving it a star★ (*^▽^*).
 
 ## Overview
