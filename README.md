@@ -52,8 +52,31 @@ Low-rank and sparse representation for hyperspectral image processing: A review.
 A survey on superpixel segmentation as a preprocessing step in hyperspectral image analysis. IEEE JSTARS, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9416734/)
 
 ## Code
-[DeepHyperX——A Python tool to perform deep learning experiments on various hyperspectral datasets.](https://github.com/nshaud/DeepHyperX)
+[DeepHyperX](https://github.com/nshaud/DeepHyperX)——A Python tool to perform deep learning experiments on various hyperspectral datasets.
 
+[ExtendedMorphologicalProfiles](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)——use the Extended Morphological Profiles and Support Vector Machines to classify remote sensed hyperspectral images using Python.
+
+[SGL](https://github.com/psellcam/Superpixel-Contracted-Graph-Based-Learning-for-Hyperspectral-Image-Classification)——Code for the Paper "Superpixel Contracted Graph-Based Learning for Hyperspectral Image Classification"
+
+[HybridSN](https://github.com/gokriznastic/HybridSN)——A keras based implementation of Hybrid-Spectral-Net as in IEEE GRSL paper "HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification".
+
+[pResNet-HSI](https://github.com/mhaut/pResNet-HSI)——Source code of "Deep Pyramidal Residual Networks for Spectral–Spatial Hyperspectral Image Classification"
+
+[A2S2K-ResNet](https://github.com/suvojit-0x55aa/A2S2K-ResNet)——Official implementation of Attention-Based Adaptive Spectral-Spatial Kernel ResNet for Hyperspectral Image Classification.
+
+[MDGCN](https://github.com/LEAP-WS/MDGCN)——Repository for the TGRS paper [Multiscale Dynamic Graph Convolutional Network for Hyperspectral Image Classification].
+
+[CEGCN](https://github.com/qichaoliu/CNN_Enhanced_GCN)——Repository for the TGRS paper CNN-Enhanced Graph Convolutional Network with Pixel- and Superpixel-Level Feature Fusion for Hyperspectral Image Classification
+
+[HPDM-SPRN](https://github.com/shangsw/HPDM-SPRN)——Repository for the paper: Spectral Partitioning Residual Network with Spatial Attention Mechanism for Hyperspectral Image Classification.
+
+[FreeNet](https://github.com/Z-Zheng/FreeNet)——Official implementation for TGRS 2020 paper "FPGA: Fast Patch-Free Global Learning Framework for Fully End-to-End Hyperspectral Image Classification".
+
+[HiT](https://github.com/xiachangxue/DeepHyperX)——Add some transformer-based HSI classification models.
+
+[SSFTT](https://github.com/zgr6010/HSI_SSFTT)——Repository for the paper: Spectral–Spatial Feature Tokenization Transformer for Hyperspectral Image Classification.
+
+[SpectralFormer](https://github.com/danfenghong/IEEE_TGRS_SpectralFormer)——Repository for the paper: Spectralformer: Rethinking hyperspectral image classification with transformers. 
 ## Dataset
 [Download URL of some public available hyperspectral scenes](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes#Pavia_University_scene)
 
