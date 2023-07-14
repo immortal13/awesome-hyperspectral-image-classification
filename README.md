@@ -53,6 +53,7 @@ A survey on superpixel segmentation as a preprocessing step in hyperspectral ima
 
 ## Code
 **--- Comparison methods of our proposed EMS-GCN methods ---**
+
 [DeepHyperX](https://github.com/nshaud/DeepHyperX)——A Python tool to perform deep learning experiments on various hyperspectral datasets.
 
 [ExtendedMorphologicalProfiles](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)——use the Extended Morphological Profiles and Support Vector Machines to classify remote sensed hyperspectral images using Python.
@@ -70,6 +71,7 @@ A survey on superpixel segmentation as a preprocessing step in hyperspectral ima
 [CEGCN](https://github.com/qichaoliu/CNN_Enhanced_GCN)——Repository for the TGRS paper CNN-Enhanced Graph Convolutional Network with Pixel- and Superpixel-Level Feature Fusion for Hyperspectral Image Classification
 
 **--- Comparison methods of our proposed LESSFormer methods ---**
+
 [HPDM-SPRN](https://github.com/shangsw/HPDM-SPRN)——Repository for the paper: Spectral Partitioning Residual Network with Spatial Attention Mechanism for Hyperspectral Image Classification.
 
 [FreeNet](https://github.com/Z-Zheng/FreeNet)——Official implementation for TGRS 2020 paper "FPGA: Fast Patch-Free Global Learning Framework for Fully End-to-End Hyperspectral Image Classification".
