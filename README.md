@@ -8,7 +8,7 @@ Contributions in any form to make this list more comprehensive are welcome!
 If you find this repository useful, kindly consider citing or giving it a star★ (*^▽^*).
 
 ## Overview
-- [awesome-hyperspectral-image-classification](#awesome-hyperspectral-image-classification)
+- [Awesome-hyperspectral-image-classification](#awesome-hyperspectral-image-classification)
   * [Overview](#overview)
   * [Survey paper](#survey-paper)
   * [Advanced paper](#advanced-paper)
