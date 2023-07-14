@@ -13,6 +13,9 @@ If you find this repository useful, kindly consider citing or giving it a star�
   * [Survey paper](#survey-paper)
   * [Advanced paper](#advanced-paper)
   * [Code](#code)
+      * [Comparison methods of our proposed EMS-GCN methods](#comparison-methods-of-our-proposed-ems-gcn-methods)
+      * [Comparison methods of our proposed LESSFormer methods](#comparison-methods-of-our-proposed-lessformer-methods)
+
   * [Dataset](#dataset)
 
 ## Survey paper
@@ -57,7 +60,7 @@ A survey on superpixel segmentation as a preprocessing step in hyperspectral ima
 (to be completed)
 
 ## Code
-**--- Comparison methods of our proposed EMS-GCN methods ---**
+### Comparison methods of our proposed EMS-GCN methods
 
 [DeepHyperX](https://github.com/nshaud/DeepHyperX)——A Python tool to perform deep learning experiments on various hyperspectral datasets.
 
@@ -75,7 +78,7 @@ A survey on superpixel segmentation as a preprocessing step in hyperspectral ima
 
 [CEGCN](https://github.com/qichaoliu/CNN_Enhanced_GCN)——Repository for the TGRS paper CNN-Enhanced Graph Convolutional Network with Pixel- and Superpixel-Level Feature Fusion for Hyperspectral Image Classification
 
-**--- Comparison methods of our proposed LESSFormer methods ---**
+### Comparison methods of our proposed LESSFormer methods
 
 [HPDM-SPRN](https://github.com/shangsw/HPDM-SPRN)——Repository for the paper: Spectral Partitioning Residual Network with Spatial Attention Mechanism for Hyperspectral Image Classification.
 
