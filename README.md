@@ -64,7 +64,7 @@ A survey on superpixel segmentation as a preprocessing step in hyperspectral ima
 
 [DeepHyperX](https://github.com/nshaud/DeepHyperX)——A Python tool to perform deep learning experiments on various hyperspectral datasets.
 
-[ExtendedMorphologicalProfiles](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)——use the Extended Morphological Profiles and Support Vector Machines to classify remote sensed hyperspectral images using Python.
+[ExtendedMorphologicalProfiles](https://github.com/andreybicalho/ExtendedMorphologicalProfiles)——Use the Extended Morphological Profiles and Support Vector Machines to classify remote sensed hyperspectral images using Python.
 
 [SGL](https://github.com/psellcam/Superpixel-Contracted-Graph-Based-Learning-for-Hyperspectral-Image-Classification)——Code for the Paper "Superpixel Contracted Graph-Based Learning for Hyperspectral Image Classification"
 
