@@ -100,6 +100,7 @@ Quantum-Inspired Spectral-Spatial Pyramid Network for Hyperspectral Image Classi
 
 (to be completed 😋)
 #### 3.3.2 Deep learning algorithm
+[EMS-GCN](https://github.com/immortal13/EMS-GCN-hyperspectral-image-classification)
 
 (to be completed 😋)
 
