@@ -10,11 +10,12 @@ If you find this repository useful, kindly consider citing or giving it a starâ˜
 ## Overview
 - [awesome-hyperspectral-image-classification](#awesome-hyperspectral-image-classification)
   * [Overview](#overview)
-  * [Survey](#survey)
+  * [Survey paper](#survey-paper)
+  * [Advanced paper](#advanced-paper)
   * [Code](#code)
   * [Dataset](#dataset)
 
-## Survey
+## Survey paper
 Discriminant analysis-based dimension reduction for hyperspectral image classification: A survey of the most recent advances and an experimental comparison of different techniques. IEEE TGRS, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8329024/)
 
 Deep learning for hyperspectral image classification: An overview. IEEE TGRS, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8697135)
@@ -50,6 +51,10 @@ Early decay detection in fruit by hyperspectral imagingâ€“Principles and applica
 Low-rank and sparse representation for hyperspectral image processing: A review. IEEE GRSM, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9451654)
 
 A survey on superpixel segmentation as a preprocessing step in hyperspectral image analysis. IEEE JSTARS, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9416734/)
+
+## Advanced paper
+### Vision transformer
+(to be completed)
 
 ## Code
 **--- Comparison methods of our proposed EMS-GCN methods ---**
