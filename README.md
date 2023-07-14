@@ -9,16 +9,17 @@ If you find this repository useful, kindly consider citing or giving it a star�
 
 ## Overview
 - [Awesome-hyperspectral-image-classification](#awesome-hyperspectral-image-classification)
-  * [Overview](#overview)
-  * [Survey paper](#survey-paper)
-  * [Advanced paper](#advanced-paper)
-  * [Code](#code)
-      * [Comparison methods of our proposed EMS-GCN methods](#comparison-methods-of-our-proposed-ems-gcn-methods)
-      * [Comparison methods of our proposed LESSFormer methods](#comparison-methods-of-our-proposed-lessformer-methods)
+  * [1 Survey paper](#1-survey-paper)
+  * [2 Advanced paper](#2-advanced-paper)
+  * [3 Code](#3-code)
+    + [3.1 Comparison methods of our proposed EMS-GCN methods](#31-comparison-methods-of-our-proposed-ems-gcn-methods)
+    + [3.2 Comparison methods of our proposed LESSFormer methods](#32-comparison-methods-of-our-proposed-lessformer-methods)
+    + [3.3 Other open source codes](#33-other-open-source-codes)
+      - [3.3.1 Traditional algorithm](#331-traditional-algorithm)
+      - [3.3.2 Deep learning algorithm](#332-deep-learning-algorithm)
+  * [4 Dataset](#4-dataset)
 
-  * [Dataset](#dataset)
-
-## Survey paper
+## 1 Survey paper
 Discriminant analysis-based dimension reduction for hyperspectral image classification: A survey of the most recent advances and an experimental comparison of different techniques. IEEE TGRS, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8329024/)
 
 Deep learning for hyperspectral image classification: An overview. IEEE TGRS, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8697135)
@@ -55,12 +56,15 @@ Low-rank and sparse representation for hyperspectral image processing: A review.
 
 A survey on superpixel segmentation as a preprocessing step in hyperspectral image analysis. IEEE JSTARS, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9416734/)
 
-## Advanced paper
-### Vision transformer
-(to be completed)
+## 2 Advanced paper
+Methanemapper: Spectral absorption aware hyperspectral transformer for methane detection. CVPR 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Kumar_MethaneMapper_Spectral_Absorption_Aware_Hyperspectral_Transformer_for_Methane_Detection_CVPR_2023_paper.html)
 
-## Code
-### Comparison methods of our proposed EMS-GCN methods
+Quantum-Inspired Spectral-Spatial Pyramid Network for Hyperspectral Image Classification. CVPR 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Quantum-Inspired_Spectral-Spatial_Pyramid_Network_for_Hyperspectral_Image_Classification_CVPR_2023_paper.html)
+
+(to be completed 😋)
+
+## 3 Code
+### 3.1 Comparison methods of our proposed EMS-GCN methods
 
 [DeepHyperX](https://github.com/nshaud/DeepHyperX)——A Python tool to perform deep learning experiments on various hyperspectral datasets.
 
@@ -78,7 +82,7 @@ A survey on superpixel segmentation as a preprocessing step in hyperspectral ima
 
 [CEGCN](https://github.com/qichaoliu/CNN_Enhanced_GCN)——Repository for the TGRS paper CNN-Enhanced Graph Convolutional Network with Pixel- and Superpixel-Level Feature Fusion for Hyperspectral Image Classification
 
-### Comparison methods of our proposed LESSFormer methods
+### 3.2 Comparison methods of our proposed LESSFormer methods
 
 [HPDM-SPRN](https://github.com/shangsw/HPDM-SPRN)——Repository for the paper: Spectral Partitioning Residual Network with Spatial Attention Mechanism for Hyperspectral Image Classification.
 
@@ -89,7 +93,17 @@ A survey on superpixel segmentation as a preprocessing step in hyperspectral ima
 [SSFTT](https://github.com/zgr6010/HSI_SSFTT)——Repository for the paper: Spectral–Spatial Feature Tokenization Transformer for Hyperspectral Image Classification.
 
 [SpectralFormer](https://github.com/danfenghong/IEEE_TGRS_SpectralFormer)——Repository for the paper: Spectralformer: Rethinking hyperspectral image classification with transformers. 
-## Dataset
+
+### 3.3 Other open source codes
+#### 3.3.1 Traditional algorithm
+[SVM](https://github.com/immortal13/SVM-hyperspectral-image-classification)
+
+(to be completed 😋)
+#### 3.3.2 Deep learning algorithm
+
+(to be completed 😋)
+
+## 4 Dataset
 [Download URL of some public available hyperspectral scenes](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes#Pavia_University_scene)
 
 [Introduction of public available hyperspectral scenes](https://mp.weixin.qq.com/s?__biz=MzI1OTQyMzYyMg==&mid=2247483715&idx=1&sn=5da6a9033e5444980c379944bc939ff6&chksm=ea786daadd0fe4bcd6c57082c7268505d867d717558984ab59413b7e9070802255898fb51410&mpshare=1&scene=23&srcid=&sharer_sharetime=1583118496004&sharer_shareid=2a63c2bce533109f6ee92fb7712f7400#rd)
